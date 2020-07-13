@@ -5,9 +5,10 @@ Minimal blender render settings "Ikea-style" for your CAD project.
 
 ![White](render/white.png)
 ![Black](render/black.png)
+![custom](render/custom.png)
 
 
-* I have to finish writing this readme... just play with the files :) *
+*I have to finish writing this readme... just play with the files :)*
 
 ## Render Settings
 
